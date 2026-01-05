@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Free Fire Quiz</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <header>
+      <h1>Free Fire Quiz</h1>
+      <div id="topLive">Live Winners: <span id="liveCount">0</span></div>
+    </header>
+
+    <main>
+      <div class="meta">
+        <div id="timer">02:00</div>
+        <div id="scoreDisplay">Score: 0</div>
+      </div>
+      <div id="questionSlide" class="card">
+        <div id="qnum"></div>
+        <div id="question"></div>
+        <div id="choices"></div>
+      </div>
+      <div id="loginOverlay" class="card hidden">
+        <h3>Login to Quiz</h3>
+        <input id="overlay_uid" placeholder="UID" />
+        <input id="overlay_password" placeholder="Password" type="password" />
+        <button id="overlay_login">Login</button>
+        <div class="note">Or return to home to register.</div>
+      </div>
+      <div class="controls">
+        <button id="nextBtn">Next</button>
+      </div>
+      <div id="result" class="card hidden"></div>
+    </main>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

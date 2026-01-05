@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Free Fire Quiz - Register / Login</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Free Fire Quiz Panel</h1>
+      <div id="liveWinners">Live Winners: 0</div>
+    </header>
+
+    <main>
+      <div id="status" class="note" style="display:none;margin-bottom:8px"></div>
+      <section class="card">
+        <h2>Create Account</h2>
+        <form id="registerForm">
+          <input placeholder="Username" id="r_username" required />
+          <input placeholder="UID" id="r_uid" required />
+          <input placeholder="Password" id="r_password" type="password" required />
+          <div class="entry-row">
+            <input placeholder="Entry Key (FFg####)" id="r_key" required />
+            <button type="button" id="requestKeyBtn" class="small">Request Key</button>
+          </div>
+          <div class="note">Note: Get the entry key from the admin (format: FFg####).</div>
+          <button type="submit">Create Account</button>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2>Login</h2>
+        <form id="loginForm">
+          <input placeholder="UID" id="l_uid" required />
+          <input placeholder="Password" id="l_password" type="password" required />
+          <button type="submit">Login</button>
+        </form>
+      </section>
+
+    </main>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

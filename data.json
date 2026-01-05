@@ -1,0 +1,389 @@
+{
+  "entryKey": "FFg1567",
+  "users": [
+    {
+      "username": "1234567",
+      "uid": "12345680",
+      "password": "1234"
+    },
+    {
+      "username": "1234567",
+      "uid": "123456809",
+      "password": "1234"
+    },
+    {
+      "username": "1234567",
+      "uid": "123456",
+      "password": "1234"
+    },
+    {
+      "username": "1234567",
+      "uid": "12311",
+      "password": "1234"
+    },
+    {
+      "username": "1234567",
+      "uid": "123133",
+      "password": "1234"
+    }
+  ],
+  "banned": [
+    "12345680",
+    "123456809",
+    "12311",
+    "123133"
+  ],
+  "winners": [
+    {
+      "uid": "123456",
+      "username": "1234567",
+      "code": "FF-REDEEM1200"
+    },
+    {
+      "uid": "123456",
+      "username": "1234567",
+      "code": "FF-REDEEM1881"
+    }
+  ],
+  "sessions": {
+    "12311": [],
+    "123133": [
+      {
+        "id": 1,
+        "q": "How many players in a normal BR squad?",
+        "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "a": 2
+      },
+      {
+        "id": 2,
+        "q": "Which company publishes Free Fire?",
+        "choices": [
+          "Activision",
+          "Garena",
+          "EA",
+          "Ubisoft"
+        ],
+        "a": 1
+      },
+      {
+        "id": 3,
+        "q": "What item restores HP?",
+        "choices": [
+          "Grenade",
+          "Medkit",
+          "Armor",
+          "Helmet"
+        ],
+        "a": 1
+      },
+      {
+        "id": 4,
+        "q": "Which item provides temporary cover?",
+        "choices": [
+          "Gloo Wall",
+          "Medkit",
+          "Helmet",
+          "Backpack"
+        ],
+        "a": 0
+      },
+      {
+        "id": 5,
+        "q": "Which gun is preferred for long-range headshots?",
+        "choices": [
+          "M4A1",
+          "SCAR",
+          "AWM",
+          "M1014"
+        ],
+        "a": 2
+      },
+      {
+        "id": 6,
+        "q": "Which item blocks bullets temporarily?",
+        "choices": [
+          "Helmet",
+          "Armor",
+          "Gloo Wall",
+          "Medkit"
+        ],
+        "a": 2
+      },
+      {
+        "id": 7,
+        "q": "What helps revive faster?",
+        "choices": [
+          "Bandage",
+          "Gloo Wall",
+          "Medkit",
+          "Revive Kit"
+        ],
+        "a": 3
+      },
+      {
+        "id": 8,
+        "q": "Which is an SMG?",
+        "choices": [
+          "AWM",
+          "MP40",
+          "M4A1",
+          "Kar98"
+        ],
+        "a": 1
+      },
+      {
+        "id": 9,
+        "q": "Which character ability reduces fall damage?",
+        "choices": [
+          "Chrono",
+          "K",
+          "Jota",
+          "Dasha"
+        ],
+        "a": 0
+      },
+      {
+        "id": 10,
+        "q": "Which mode is classic battle royale?",
+        "choices": [
+          "Clash Squad",
+          "Ranked",
+          "Battle Royale",
+          "Deathmatch"
+        ],
+        "a": 2
+      },
+      {
+        "id": 11,
+        "q": "Which is a melee weapon?",
+        "choices": [
+          "M4A1",
+          "Pan",
+          "AWM",
+          "MP5"
+        ],
+        "a": 1
+      },
+      {
+        "id": 12,
+        "q": "Which attachment reduces recoil most?",
+        "choices": [
+          "Extended Mag",
+          "Muzzle",
+          "Compensator",
+          "Laser"
+        ],
+        "a": 2
+      },
+      {
+        "id": 13,
+        "q": "Which zone is safe on map (example)?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "a": 1
+      },
+      {
+        "id": 14,
+        "q": "What does HP stand for in Free Fire?",
+        "choices": [
+          "High Power",
+          "Health Points",
+          "Hero Points",
+          "Hit Points"
+        ],
+        "a": 1
+      },
+      {
+        "id": 15,
+        "q": "What is Clash Squad max team size?",
+        "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "a": 2
+      }
+    ],
+    "123456": [],
+    "12345680": [],
+    "123456809": [],
+    "UID2222": []
+  },
+  "questions": [
+    {
+      "q": "What does HP stand for in Free Fire?",
+      "choices": [
+        "High Power",
+        "Health Points",
+        "Hero Points",
+        "Hit Points"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "Which mode is classic battle royale?",
+      "choices": [
+        "Clash Squad",
+        "Ranked",
+        "Battle Royale",
+        "Deathmatch"
+      ],
+      "a": 2,
+      "diff": "easy"
+    },
+    {
+      "q": "What item restores HP?",
+      "choices": [
+        "Grenade",
+        "Medkit",
+        "Armor",
+        "Helmet"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "Which is a melee weapon?",
+      "choices": [
+        "M4A1",
+        "Pan",
+        "AWM",
+        "MP5"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "How many players in a normal BR squad?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "diff": "easy"
+    },
+    {
+      "q": "Which company publishes Free Fire?",
+      "choices": [
+        "Activision",
+        "Garena",
+        "EA",
+        "Ubisoft"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "Which item provides temporary cover?",
+      "choices": [
+        "Gloo Wall",
+        "Medkit",
+        "Helmet",
+        "Backpack"
+      ],
+      "a": 0,
+      "diff": "easy"
+    },
+    {
+      "q": "Which zone is safe on map (example)?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "What helps revive faster?",
+      "choices": [
+        "Bandage",
+        "Gloo Wall",
+        "Medkit",
+        "Revive Kit"
+      ],
+      "a": 3,
+      "diff": "easy"
+    },
+    {
+      "q": "Which is an SMG?",
+      "choices": [
+        "AWM",
+        "MP40",
+        "M4A1",
+        "Kar98"
+      ],
+      "a": 1,
+      "diff": "easy"
+    },
+    {
+      "q": "Which character ability reduces fall damage?",
+      "choices": [
+        "Chrono",
+        "K",
+        "Jota",
+        "Dasha"
+      ],
+      "a": 0,
+      "diff": "hard"
+    },
+    {
+      "q": "Which attachment reduces recoil most?",
+      "choices": [
+        "Extended Mag",
+        "Muzzle",
+        "Compensator",
+        "Laser"
+      ],
+      "a": 2,
+      "diff": "hard"
+    },
+    {
+      "q": "Which gun is preferred for long-range headshots?",
+      "choices": [
+        "M4A1",
+        "SCAR",
+        "AWM",
+        "M1014"
+      ],
+      "a": 2,
+      "diff": "hard"
+    },
+    {
+      "q": "What is Clash Squad max team size?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "diff": "hard"
+    },
+    {
+      "q": "Which item blocks bullets temporarily?",
+      "choices": [
+        "Helmet",
+        "Armor",
+        "Gloo Wall",
+        "Medkit"
+      ],
+      "a": 2,
+      "diff": "hard"
+    }
+  ]
+}
